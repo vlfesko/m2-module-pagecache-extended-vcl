@@ -1,2 +1,2 @@
-# m2-module-pagecache-extended-vcl
-Patches Varnish 4 VCL by adding cache purge via browser by Ctrl+F5
+# Vlfesko_PageCacheExtendedVcl
+Magento 2 module which patches Varnish 3/4 VCL by adding Ctrl+F5 cache purge via browser.

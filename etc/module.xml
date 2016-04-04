@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Vlfesko PageCacheExtendedVcl config
+ *
+ * @category  Vlfesko
+ * @package   Vlfesko_PageCacheExtendedVcl
+ * @author    Volodymyr Fesko <vladimir.fesko@gmail.com>
+ * @copyright 2016 Volodymyr Fesko
+ */
+ -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Vlfesko_PageCacheExtendedVcl" setup_version="0.1.0">
+        <sequence>
+            <module name="Magento_PageCache" />
+        </sequence>
+    </module>
+</config>
