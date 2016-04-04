@@ -1,7 +1,6 @@
 {
     "name": "vlfesko/m2-module-pagecache-extended-vcl",
     "type": "magento2-module",
-    "version": "0.1.0",
     "description": "Patches Varnish 4 VCL by adding cache purge via browser by Ctrl+F5.",
     "homepage": "https://github.com/vlfesko/m2-module-pagecache-extended-vcl",
     "keywords": ["magento2", "varnish"],
